@@ -1,0 +1,1 @@
+SELECT * FROM profesor WHERE fecha_de_nacimiento BETWEEN Date("1980-01-01") AND DATE("1989-12-31")
